@@ -4,7 +4,7 @@ public class Practica {
 	public static void main(String[] args) {
 		
 		System.out.println("Hola, mundo");
-		System.out.println("Mantis reliosa");
+		System.out.println("Escorpion");
 
 	}
 
